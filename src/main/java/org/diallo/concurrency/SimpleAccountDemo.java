@@ -27,7 +27,6 @@ public class SimpleAccountDemo {
                 }
         );
 
-
         // start both thread
         t1.start();
         t2.start();
